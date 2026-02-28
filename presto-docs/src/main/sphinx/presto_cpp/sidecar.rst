@@ -2,11 +2,6 @@
 Presto C++ Sidecar
 ===================
 
-.. contents::
-    :local:
-    :backlinks: none
-    :depth: 1
-
 Endpoints
 ---------
 

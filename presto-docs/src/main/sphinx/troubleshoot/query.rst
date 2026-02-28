@@ -2,12 +2,7 @@
 Queries
 =======
 
-This page presents problems encountered with queries in Presto. 
-
-.. contents::
-    :local:
-    :backlinks: none
-    :depth: 1
+This page presents problems encountered with queries in Presto.
 
 ``Request Header Fields Too Large``
 -----------------------------------

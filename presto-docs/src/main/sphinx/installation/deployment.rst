@@ -2,11 +2,6 @@
 Deploying Presto
 ================
 
-.. contents::
-    :local:
-    :backlinks: none
-    :depth: 1
-
 .. _Installing Presto:
 
 Installing Presto

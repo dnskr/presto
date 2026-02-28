@@ -2,15 +2,10 @@
 Deploying Presto
 ================
 
-This page presents common problems encountered when deploying Presto. 
+This page presents common problems encountered when deploying Presto.
 
-.. contents::
-    :local:
-    :backlinks: none
-    :depth: 1
-
-``Permission denied: ‘/private/var/presto/data/var/run/launcher.pid``
----------------------------------------------------------------------
+``Permission denied: ‘/private/var/presto/data/var/run/launcher.pid’``
+----------------------------------------------------------------------
 
 Problem
 ^^^^^^^

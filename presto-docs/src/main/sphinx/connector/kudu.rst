@@ -6,13 +6,6 @@ The Kudu connector allows querying, inserting and deleting data in `Apache Kudu`
 
 .. _Apache Kudu: https://kudu.apache.org/
 
-
-.. contents::
-    :local:
-    :backlinks: none
-    :depth: 1
-
-
 Compatibility
 -------------
 
