@@ -1,5 +1,7 @@
 # Building the documentation
 
+*TESTING REQUIRED JOBS*
+
 Presto documentation is authored in `rst` format and published using [Sphinx](https://www.sphinx-doc.org). The rst files are located in `presto-docs/src/main/sphinx` and sub-folders.
 
 ## Prerequisites
